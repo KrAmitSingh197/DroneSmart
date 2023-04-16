@@ -18,5 +18,5 @@ bash blackhawk.sh
 In Terminal 3
 ```
 cd catkin_ws/src/iq_sim/scripts
-python3 shapes.py
+python3 takeoff2.py
 ```
